@@ -1,6 +1,6 @@
 # Hack_The_Box_Write_Ups
 
-Welcome to my github!! :) 
+Welcome to my github!! :smiley: 
 
 My name is Mike and my hacker handle is Thugbounty. I am here to get better at Pen-testing.  I currently work for a Security company and handle vulnerability reports for my clients.  I have a degree in Cyber Security but I have only started putting the skills to work a little over a year ago. My goals are simple I want to be a great security researcher and Pen-tester. 
 I plan on doing this through hack the box, try hack me, proving grounds and other programs. 
