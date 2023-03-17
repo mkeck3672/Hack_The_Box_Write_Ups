@@ -1,7 +1,7 @@
 <H1 style="text-align: center;">Hack The Box </H1>
 <H2 style="text-align: center;">Devel write up </H2>
 <H2 style="text-align: center;">By Michael ThugBounty Keck </H2>
-<p style="text-align: center"><img src="C:\Users\mikee\Desktop\GitStuff\Hack_The_Box_Write_Ups\Hack_The_Box_Write_Ups\images\Devel.png"></p>
+<p style="text-align: center"><img src="https://github.com/mkeck3672/Hack_The_Box_Write_Ups/blob/main/images/Devel.png"></p>
 
 Recon:
 Started the test out by running Rustscan to get the open ports. 
