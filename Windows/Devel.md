@@ -3,7 +3,7 @@
 <H2 style="text-align: center;">By Michael ThugBounty Keck </H2>
 <p style="text-align: center"><img src="https://github.com/mkeck3672/Hack_The_Box_Write_Ups/blob/main/images/Devel.png"></p>
 
-Recon:
+<H1 style="test-align: left;"> Recon: <H1>
 Started the test out by running Rustscan to get the open ports. 
 Command: rustscan -a 10.10.10.5
 <p style="text-align: center"><img src="https://github.com/mkeck3672/Hack_The_Box_Write_Ups/blob/main/images/devel.jpg"></p>
