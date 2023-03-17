@@ -3,7 +3,7 @@
 <H2 style="text-align: center;">By Michael ThugBounty Keck </H2>
 <p style="text-align: center"><img src="https://github.com/mkeck3672/Hack_The_Box_Write_Ups/blob/main/images/Devel.png"></p>
 
-<H1 style="test-align: left;"> Recon: <H1>
+<H1 style="text-align: left;"> Recon: </H1>
 Started the test out by running Rustscan to get the open ports. 
 Command: rustscan -a 10.10.10.5
 <p style="text-align: center"><img src="https://github.com/mkeck3672/Hack_The_Box_Write_Ups/blob/main/images/devel.jpg"></p>
@@ -47,3 +47,6 @@ I started a netcat listener in a new console tab making sure I use the same port
 Command nc -nlvp 4444
 Went back to FireFox and changed /test.txt to /reverse.aspx and I was able to get a shell back. 
 <p style="text-align: center"><img src="https://github.com/mkeck3672/Hack_The_Box_Write_Ups/blob/main/images/Devel%20(2).jpg"></p>
+
+Privilege Escalation Root Flag:
+Will come back to this 
