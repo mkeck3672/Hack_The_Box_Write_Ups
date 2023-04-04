@@ -72,7 +72,9 @@ I downloaded sipvicious<sup>3</sup>. From the sipvicious wiki<sup>4</sup> I was 
 ```
 ./svwar -m INVITE 10.0.0.1
 ```
-The command returned an open ext 233<p style="text-align: center"><img src="/images/Beep/beep%20(1).jpg</p>.  I again updated my 18650.py with the new ext <p style="text-align: center"><img src="/images/Beep/Beep(4).png"></p> and ran it again, this time I did get a call back.
+The command returned an open ext 233<p style="text-align: center"><img src="/images/Beep/beep%20(1).jpg"></p>
+.  I again updated my 18650.py with the new ext <p style="text-align: center"><img src="/images/Beep/beep%20(4).jpg"></p>
+ and ran it again, this time I did get a call back.
 Looking at the exploit there was a way to upgrade to admin right away. The user needed to run
 
 ```
@@ -84,7 +86,8 @@ then
 ```
  !sh 
 ```
-Since I was root I went a head and got both flags.<p style="text-align: center"><img src="/images/Beep/Beep(3).png"></p> 
+Since I was root I went a head and got both flags.<p style="text-align: center"><img src="/images/Beep/beep%20(3).jpg"></p>
+ 
 USER FLAG:5be8f535cdf2b007b64885bf766db5d6
 ROOT FLAG:a874a4316d949910a7fe32ca0da02907
  </p>
