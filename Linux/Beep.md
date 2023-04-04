@@ -19,7 +19,7 @@ The researcher started out with a scan of the host (10.10.10.3) using naabu<sup>
 | open | 10.10.10.7 | 443 | open | 10.10.10.7 | 4559 |
 | open | 10.10.10.7 | 878 | open | 10.10.10.7 | 5030 |
 | open | 10.10.10.7 | 10000 |
-<p style="text-align: center"><img src="https://github.com/mkeck3672/Hack_The_Box_Write_Ups/blob/main/images/Beep/beep%20(2).jpg"></p>
+<p style="text-align: center"><img src="/images/Beep/beep%20(2).jpg"></p>
 
 # User enum
 <details>
