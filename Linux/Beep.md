@@ -54,7 +54,11 @@ This did not work.
 ```
     nc -nlvp 4444
 ``` 
-and ran the script, but failed to get a call back. 
+and ran the script, 
+```
+python2.7 18650.py 
+```
+but failed to get a call back. 
 after some research I found a suite of VoIP tools that could be used to find an open extention since ext 1000 was not working. 
 I downloaded sipvicious<sup>3</sup>. From the sipvicious wiki<sup>4</sup> I was able to find the proper commend 
 
@@ -68,8 +72,11 @@ Looking at the exploit there was a way to upgrade to admin right away. The user 
 sudo nmap --interactive
 
 ```
-then run !sh 
+then 
 
+```
+ !sh 
+```
 Since I was root I went a head and got both flags. 
 USER FLAG:5be8f535cdf2b007b64885bf766db5d6
 ROOT FLAG:a874a4316d949910a7fe32ca0da02907
